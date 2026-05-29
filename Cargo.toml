@@ -1,0 +1,9 @@
+[package]
+name = "file_encryptor"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bytes = "1.11.1"
+enc_file = "0.6.5"
+secrecy = "0.10.3"
